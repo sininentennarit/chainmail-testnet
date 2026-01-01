@@ -1,0 +1,14 @@
+const config = {
+  cspr_click_app_name: "$CSPR_CLICK_APP_NAME",
+  cspr_click_app_id: "$CSPR_CLICK_APP_ID",
+  cspr_click_providers: $CSPR_CLICK_PROVIDERS,
+  cspr_live_url: "$CSPR_LIVE_URL",
+
+  send_message_entry_point_id: $SEND_MESSAGE_ENTRY_POINT_ID,
+  chainmail_contract_package_hash: "$CHAINMAIL_CONTRACT_PACKAGE_HASH",
+  message_token_contract_package_hash: "$MESSAGE_TOKEN_CONTRACT_PACKAGE_HASH",
+  stamp_token_contract_package_hash: "$STAMP_TOKEN_CONTRACT_PACKAGE_HASH",
+  stamp_cost: $STAMP_COST,
+  stamp_transaction_cost: $STAMP_TRANSACTION_COST,
+  message_transaction_cost: $MESSAGE_TRANSACTION_COST,
+};
