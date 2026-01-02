@@ -4,12 +4,11 @@ const config = {
   cspr_click_providers: ['casper-wallet', 'ledger', 'metamask-snap'],
   cspr_live_url: "https://testnet.cspr.live",
 
-  send_message_entry_point_id: 2681797,
-  chainmail_contract_package_hash: '0ae7b798a8b9d96bb89f85447363b73f7896060c0b1fca4afcdbae313835b983',
-  message_token_contract_package_hash: "bea136065e40de296f3637d43d28b16fca23bb73cc4af46efe045d5ac93e3816",
-  stamp_token_contract_package_hash: "3f13ec276fbf2e4b191b1866fe15a0aea1ed0e6c62df8f578b8bc3e9413cfda5",
+  send_message_entry_point_id: 2681921,
+  chainmail_contract_package_hash: '8058e3c16943bd9eadefbd2b4d4fb1e32ce118e492e179c42e14ed3f71d5601d',
+  message_token_contract_package_hash: "01f8cb209aed9d94198fa71e339ab19d44f90b018bd7e7dbe474c56b4ecbbb15",
+  stamp_token_contract_package_hash: "b85da037a04930a02c5f4d333c5e5ea43a9b51619e5879e56323819887f63f8e",
   stamp_cost: 5,
   stamp_transaction_cost: 9.5,
   message_transaction_cost: 8,
 };
-
